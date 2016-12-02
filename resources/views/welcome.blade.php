@@ -18,10 +18,11 @@
         <div class="title m-b-md">
             Jeff Masterson
         </div>
-
+        
         <div class="links">
-            
+
         </div>
+        <h4>Site Coming Soon!</h4>
     </div>
 </div>
 @endsection
