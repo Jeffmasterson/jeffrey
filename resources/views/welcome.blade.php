@@ -18,7 +18,7 @@
         <div class="title m-b-md">
             Jeff Masterson
         </div>
-        
+
         <div class="links">
 
         </div>
