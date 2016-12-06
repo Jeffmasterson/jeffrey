@@ -9,7 +9,7 @@
     <!-- Main -->
     <section id="main">
         <a href="/"><span class="avatar"><img src="img/jeff.jpg" style="width: 15%;" alt="" /></span></a>
-        <hr />
+
         <h2>Contact Me</h2>
         <form method="post" action="#">
             <div class="field">
@@ -30,10 +30,13 @@
                 <input type="radio" id="robot_no" name="robot" /><label for="robot_no">No</label>
             </div>
             <ul class="actions">
-                <li><a href="#" class="button">Get Started</a></li>
+                <li><a href="#" class="button">Send Message</a></li>
             </ul>
         </form>
         <hr />
+        <a href="/">Home</a>
+        |
+        <a href="projects" target="_blank">Projects</a>
     </section>
 
     <!-- Footer -->

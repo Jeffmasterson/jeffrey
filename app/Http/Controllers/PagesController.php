@@ -27,6 +27,13 @@ class PagesController extends Controller
         return view('pages.contact');
     }
 
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function projects() {
+        return view('pages.projects');
+    }
+
 
 
 

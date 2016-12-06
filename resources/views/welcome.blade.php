@@ -16,10 +16,12 @@
 
         <footer>
             <ul class="icons">
-                <li><a href="https://github.com/Jeffmasterson" class="fa-github">Github</a></li>
-                <li><a href="#" class="fa-twitter">Twitter</a></li>
-                <a href="contact"><h4>Contact Me</h4></a>
+                <li><a href="https://github.com/Jeffmasterson" target="_blank" class="fa-github">Github</a></li>
+                <li><a href="https://twitter.com/JeffMonsterson" target="_blank" class="fa-twitter">Twitter</a></li>
             </ul>
+            <a href="projects">Projects</a>
+            |
+            <a href="contact">Contact Me</a>
         </footer>
     </section>
 

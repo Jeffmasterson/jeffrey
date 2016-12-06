@@ -13,6 +13,7 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="/resources/assets/css/ie8.css" /><![endif]-->
     <noscript><link rel="stylesheet" href="/resources/assets/css/noscript.css" /></noscript>
 
+
 </head>
 <body>
 @yield('content')
