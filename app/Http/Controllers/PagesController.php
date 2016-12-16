@@ -34,6 +34,13 @@ class PagesController extends Controller
         return view('pages.projects');
     }
 
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function admin_login() {
+        return view('pages.admin-login');
+    }
+
 
 
 

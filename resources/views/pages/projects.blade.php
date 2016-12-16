@@ -2,7 +2,7 @@
 
 @section('content')
 
-        
+
 <!-- Header -->
 <header id="top" class="header">
     <div class="text-vertical-center">

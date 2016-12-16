@@ -17,4 +17,9 @@
 Route::get('/', 'PagesController@home');
 Route::get('contact', 'PagesController@contact');
 Route::get('projects', 'PagesController@projects');
+Route::get('admin', 'PagesController@admin_login');
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index');
